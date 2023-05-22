@@ -1,1 +1,2 @@
 # Big-Data-Analysis
+This is a big data problem that will be solved using spark in python (pyspark) on Google Colab. The task in this notebook involves performing a statistical analysis on the cycle hire usage in London in 2014. The research hypothesis is: "In 2014, people ride for longer in autumn than in spring" The provided dataset is on transport for london (Tfl) downloadable from https://cycling.data.tfl.gov.uk/usage-stats/cyclehireusagestats-2014.zip .
